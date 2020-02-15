@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/i_am_rich/android/app/src/debug/debug.iml" filepath="$PROJECT_DIR$/i_am_rich/android/app/src/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/destini-challenge-starting/destini-challenge-starting.iml" filepath="$PROJECT_DIR$/destini-challenge-starting/destini-challenge-starting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dicee-flutter/dicee-flutter.iml" filepath="$PROJECT_DIR$/dicee-flutter/dicee-flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/i_am_rich/i_am_rich.iml" filepath="$PROJECT_DIR$/i_am_rich/i_am_rich.iml" />
+      <module fileurl="file://$PROJECT_DIR$/magic-8-ball-flutter/magic-8-ball-flutter.iml" filepath="$PROJECT_DIR$/magic-8-ball-flutter/magic-8-ball-flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/i_am_rich/android/app/src/main/main.iml" filepath="$PROJECT_DIR$/i_am_rich/android/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/magic-8-ball-flutter/android/app/src/main/main1.iml" filepath="$PROJECT_DIR$/magic-8-ball-flutter/android/app/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quizzler-flutter/android/app/src/main/main2.iml" filepath="$PROJECT_DIR$/quizzler-flutter/android/app/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/destini-challenge-starting/android/app/src/main/main3.iml" filepath="$PROJECT_DIR$/destini-challenge-starting/android/app/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/i_am_rich/android/app/src/profile/profile.iml" filepath="$PROJECT_DIR$/i_am_rich/android/app/src/profile/profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quizzler-flutter/quizzler-flutter.iml" filepath="$PROJECT_DIR$/quizzler-flutter/quizzler-flutter.iml" />
+    </modules>
+  </component>
+</project>
